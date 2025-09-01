@@ -1,0 +1,5 @@
+{
+  "name": "금연구역 관련 FAQ",
+  "description": "사용자가 FAQ를 보고 관리자가 이를 편집할 수 있는 간단한 웹 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
